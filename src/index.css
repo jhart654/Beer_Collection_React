@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    width: 100%
+}
+
+#actionbuttons {
+    margin-top: -7rem;
+    padding-left: 200px;
+    
+}
+
+#grid {
+    margin-top: 35%;
+    margin-right: 20%;
+    margin-left: -20rem;
+    width: 950px;
+    height: 350px;
+    opacity: 90%;
+    background-color: bisque;
+   
+}
+
+
+
+#newbeer {
+    width: 75px
+}
+
+
+
